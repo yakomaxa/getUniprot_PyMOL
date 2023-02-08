@@ -8,6 +8,7 @@ fetch UniProt text from PyMOL
 # Usage 
 
 Select any atoms of your AFDB model, and type
+
 ``` uniprot sele ```
 
 This script assume that your object is named like AF-P42212-F1_model_v4 or P42212.
