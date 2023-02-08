@@ -19,3 +19,4 @@ If you object is named as raw Uniprot accession like ```P42212```, select any of
 
 ``` uniprot sele, 1```
 
+Then the contents of Uniprot text file is displayed on PyMOL console.
